@@ -1,0 +1,624 @@
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-9.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-61.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-87.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-113.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-49.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-65.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-100.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-steroid-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-65.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-101.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-84.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-114.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07SteroidPerioral1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-85.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-infantile-12.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-6.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-34.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-99.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-39.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-93.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-103.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-38.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-003.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-30.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-30.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-109.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-72.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-66.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-90.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-67.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-149.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rhinophyma-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-28.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-123.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-6.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-37.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-117.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/Hidradenitis-Suppurativa-Areola-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-27.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/nevus-comedonicus-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-40.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-39.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-primary-lesion-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-138.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-13.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-18.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-20.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-50.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-62.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-45.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-37.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-36.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-60.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-26.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-74.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-116.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-68.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-120.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-21.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-55.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-17.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-106.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-7.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-27.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07sebDerem1101051.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-62.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-36.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-9.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-24.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-86.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-69.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-59.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-7.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-64.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-107.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-20.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-24.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-55.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-57.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-29.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07PerioralDermEye.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-83.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-52.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-56.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/milia-14.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-45.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-85.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/milia-19.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-53.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-92.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-scar-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/08PerioralDerm1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-38.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/Forest-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-67.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-116.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-99.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-27.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-45.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-14.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-46.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-49.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-43.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-126.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-95.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-135.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-12.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-19.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-101.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-90.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-61.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-30.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-41.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-131.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-127.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-44.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-17.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-90.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-32.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-134.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-18.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-7.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-14.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-89.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-26.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-141.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-122.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-37.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-119.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-104.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-33.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-66.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-114.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-45.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-95.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-19.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-29.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-61.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-17.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-7.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-18.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-104.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-scar-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-12.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-16.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-42.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-36.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-22.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-32.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-97.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-130.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-28.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-88.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-34.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-13.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-63.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-141.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-62.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-94.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-infantile-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-15.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-118.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-21.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/minocycline-pigmentation-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-38.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-22.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-21.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07rhnophymas0321051.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-76.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-8.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-88.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-primary-lesion-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-148.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-33.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-102.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/milia-18.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-122.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-6.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07RosaceaOK0828063.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/Sebaceous-glands-Areola-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-31.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-111.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-16.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-primary-lesion-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-59.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-38.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07Rhinophyma1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-84.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-53.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-99.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-14.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-31.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-87.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-61.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-125.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-44.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-17.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-131.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-48.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-22.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-67.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-129.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-33.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07VascularFace0120.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-15.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-15.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/sebaceous-glands-upper-lip-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-58.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-42.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-16.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-29.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-24.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-97.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-69.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-115.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-29.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-33.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hyperhidrosis-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-30.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-13.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07RosaceaFulFAce.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-128.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-50.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07RosaceaMilia0120.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-112.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-133.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-15.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/fordyce-spots-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-35.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-79.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-34.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-107.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-22.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-59.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/ComedonesEars-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-23.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-25.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-26.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-103.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-steroid-8.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-60.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-histology-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-18.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-40.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-histology-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-46.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-57.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-86.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/07SteroidPerioral.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-1.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-33.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-24.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-121.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-25.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-51.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-14.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-31.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-27.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-100.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-pustular-26.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-excoriated-8.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-4.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-6.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-93.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-58.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-37.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-50.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-48.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-92.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hyperhidrosis-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-12.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-20.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/minocycline-pigmentation-10.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-5.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-25.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-66.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-41.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-2.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-36.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-99.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-47.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-infantile-6.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-114.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-16.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/milia-3.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-53.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-137.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-98.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-34.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/hidradenitis-suppurativa-29.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-cystic-40.jpg	1
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-common-53.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/7IMG012.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-64.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-diaper-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/perleche-13.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-58.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/viral-exanthems-41.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-68.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/telogen-effluvium-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-simplex-22.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-62.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/dariers-disease-55.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-60.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/cherry-angioma-24.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/hives-Urticaria-Acute-49.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/amyloidosis-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05kerPilarisFlorid.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05Atopic0504057.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/purpura-vomiting-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/keloids-27.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-incognito-47.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-9.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-122.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05AtopicLichenification.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/erythema-multiforme-175.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-125.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/nevus-anemicus-6.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-plantar-22.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-21.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-erythrodermic-15.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/cowden-disease-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-129.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/PUPPP-26.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-dorsum-57.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-foot-32.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-hand-177.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/genital-warts-126.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-face-29.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/lichen-simplex-chronicus-176.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/neurofibromas-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-125.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/xanthomas-61.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/beaus-lines-23.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-180.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-91.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/epidermal-nevus-41.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-44.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/mucous-cyst-99.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/spider-angioma-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/hemangioma-infancy-27.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/onychogryphosis-7.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/pyogenic-granuloma-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/mucous-cyst-22.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-fingertips-50.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/psoriasis-100.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/halo-nevus-27.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-172.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-face-8.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05diaperDerm112204.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-37.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/morphea-60.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-117.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/drug-eruptions-107.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/yellow-nails-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/hemangioma-infancy-41.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-91.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-87.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-nummular-14.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-digitate-37.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-106.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/benign-familial-chronic-pemphigus-31.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-asteatotic-35.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/lichen-planus-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/vasculitis-100.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-27.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Cellulitis-34.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05atopic1107051.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-zoster-117.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-169.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-trunk-ext-9.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-29.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/telangiectasias-21.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/lichen-simplex-chronicus-91.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-primary-lesion-21.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/stasis-dermatitis-85.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/hemangioma-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/lupus-acute-43.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-zoster-168.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/stasis-dermatitis-196.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/white-superficial-onychomycosis-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/fibroma-7.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/twenty-nail-dystrophy-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/distal-subungual-onychomycosis-114.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-103.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-common-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-47.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/porphyrias-39.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-26.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/molluscum-contagiosum-125.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Sycosis-Barbae-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-82.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-buttocks-17.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-42.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-nails-2.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-pigmented-70.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/pityrosporum-folliculitis-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-26.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-64.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/pincer-nails-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-97.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-cutaneous-10.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-flat-21.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/stucco-keratoses-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/12wartMouth4977.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/lichen-planus-102.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-hand-107.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-horn-9.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lip-23.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Folliculitis-27.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-164.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/stasis-dermatitis-113.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/05Atopic12060411.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/stasis-dermatitis-2.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-8.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/pubic-lice-28.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-86.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Erysipelas-6.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-57.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/henoch-schonlein-purpura-10.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/epidermolysis-bullosa-7.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/polymorphous-light-eruption-33.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-14.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/keloids-47.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/varicella-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-199.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/chigger-Bites-Bullous-.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/dermatitis-herpetiformis-57.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-common-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/crest-syndrome-12.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-incognito-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-118.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-cheilitis-sq-cell-lip-9.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/vasculitis-42.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-89.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/erythrasma-13.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/metastasis-30.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/pyoderma-gangrenosum-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/xanthomas-17.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/pemphigus-foliaceous-26.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/erythema-multiforme-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/Coral-Poisoning-2.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/yellow-nails-14.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/fixed-drug-eruption-70.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-nails-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-159.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/hemangioma-22.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-sclerosing-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/10IMG009.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/pompholyx-14.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/androgenic-alopecia-men-1.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/pilar-cyst-13.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-simplex-55.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-59.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-face-56.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-zoster-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/sarcoid-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/dermagraphism-36.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Furuncles-Carbuncles-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/tick-bite-36.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/lichen-planus-205.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/angioedema-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/crest-syndrome-22.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/08SebDermPresternal063001.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-87.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-83.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-chronic-29.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/molluscum-contagiosum-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-plantar-44.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/polymorphous-light-eruption-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-92.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-zoster-176.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/dariers-disease-45.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-96.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-pigmented-28.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-137.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-hand-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-type-1-primary-29.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-160.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/rheumatoid-nodule-8.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-94.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/scleroderma-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/herpes-type-2-primary-6.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/albinism-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/bullous-pemphigoid-96.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-113.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/pitted-keratolysis-6.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-109.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-scalp-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/trichofolliculoma-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-189.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-44.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/neurotic-excoriations-41.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/becker-nevus-12.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-89.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/lichen-simplex-chronicus-190.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-plantar-71.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/blue-nevus-ota-4.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/lichen-planus-167.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-lesion-56.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-89.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-inversus-23.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-55.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/herpes-type-2-recurrent-32.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-48.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/alopecia-areata-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-erythrodermic-6.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/herpes-type-2-recurrent-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-15.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/median-nail-dystrophy-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/benign-familial-chronic-pemphigus-28.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/stasis-dermatitis-156.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-trunk-generalized-33.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Poison Ivy Photos and other Contact Dermatitis/patch-testing-1.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-face-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Staphylococcal-Folliculitis-7.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-102.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/pemphigus-40.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/venous-lake-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Drug-20.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-hand-94.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Folliculitis-24.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/metastasis-11.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-45.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-lip-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/enterovirus-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/fixed-drug-eruption-17.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-type-1-recurrent-75.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-136.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/8Psoriasis2-127.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-87.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-36.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-13.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-nummular-127.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-77.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/sebaceous-adenoma-5.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-126.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-48.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-nose-1.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/granulation-tissue-23.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/herpes-simplex-39.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-77.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/lentigo-adults-37.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-58.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/scabies-176.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-digitate-38.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/onychogryphosis-1.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/acanthosis-nigricans-59.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/bullous-pemphigoid-109.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-124.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/chilblains-perniosis-39.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/erythema-infectiosum-2.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-24.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-164.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Staphylococcal-Folliculitis-30.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/nail-melanoma-2.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/genital-warts-29.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/hives-Urticaria-Acute-89.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Penis-33.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-scalp-41.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Urticaria Hives/PUPPP-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Herpes HPV and other STDs Photos/molluscum-contagiosum-111.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/09Pseudomonfoll010106.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/lentigo-adults-34.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/molluscum-contagiosum-157.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Staphylococcal-Folliculitis-18.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-incognito-38.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Cellulitis-15.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Atopic Dermatitis Photos/7IMG017.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/eczema-subacute-3.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/onycholysis-33.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-185.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-dorsum-10.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-104.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/molluscum-contagiosum-154.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-84.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/keloids-75.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Exanthems and Drug Eruptions/drug-eruptions-104.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-30.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Bullous Disease Photos/benign-familial-chronic-pemphigus-9.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/erythema-multiforme-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vasculitis Photos/henoch-schonlein-purpura-19.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/chilblains-perniosis-43.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-106.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-lesion-24.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/dermatomyositis-30.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Eczema Photos/neurotic-excoriations-31.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Scabies Lyme Disease and other Infestations and Bites/tick-bite-15.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-101.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/kaposi-sarcoma-14.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/kaposi-sarcoma-13.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/warts-plantar-92.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/necrobiosis-lipoidica-46.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Nail Fungus and other Nail Disease/white-superficial-onychomycosis-16.jpg	0
+/data_lg/keru/project/part2/DermNet/test/Systemic Disease/granuloma-annulare-136.jpg	0

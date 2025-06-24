@@ -1,0 +1,114 @@
+[
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Light Diseases and Disorders of Pigmentation/vitiligo-54.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 1.5804173291236734e-12,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_1_vitiligo-54_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Lupus and other Connective Tissue diseases/dermatomyositis-25.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 4.9468241996075175e-18,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_2_dermatomyositis-25_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-40.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 1.1256122401569503e-17,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_3_tinea-groin-40_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-127.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 1.2432987205102108e-05,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_4_seborrheic-keratoses-smooth-127_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Warts Molluscum and other Viral Infections/varicella-3.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 1.9275981099839857e-19,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_5_varicella-3_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-130.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 5.039648253969903e-15,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_6_seborrheic-keratoses-ruff-130_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Vascular Tumors/telangiectasias-49.jpg",
+        "true_label": 0,
+        "predicted_class": 0,
+        "probability": 2.8081391098770435e-19,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/correct_7_telangiectasias-49_gradcam.jpg",
+        "is_correct": true
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-5.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 2.635258258455884e-18,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_8_rosacea-nose-5_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/Forest-2.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 1.106709108443472e-15,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_9_Forest-2_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-closed-comedo-15.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 3.353322788070051e-18,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_10_acne-closed-comedo-15_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-129.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 3.5622364334751176e-17,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_11_perioral-dermatitis-129_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/perioral-dermatitis-9.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 8.865552233317777e-18,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_12_perioral-dermatitis-9_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/acne-open-comedo-26.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 2.682777303105218e-19,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_13_acne-open-comedo-26_gradcam.jpg",
+        "is_correct": false
+    },
+    {
+        "image_path": "/data_lg/keru/project/part2/DermNet/test/Acne and Rosacea Photos/rosacea-nose-66.jpg",
+        "true_label": 1,
+        "predicted_class": 0,
+        "probability": 8.661068533003723e-19,
+        "gradcam_path": "/data_lg/keru/project/part2/DermNet/eval/eval_initial/gram/wrong_14_rosacea-nose-66_gradcam.jpg",
+        "is_correct": false
+    }
+]

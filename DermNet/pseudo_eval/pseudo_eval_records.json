@@ -1,0 +1,142 @@
+[
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/perioral-dermatitis-113.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/rosacea-72.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/acne-closed-comedo-20.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/acne-excoriated-15.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/07PerioralDermEye.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/perioral-dermatitis-15.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/acne-open-comedo-26.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/acne-open-comedo-59.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/rosacea-nose-55.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Acne and Rosacea Photos/acne-open-comedo-57.jpg",
+        "true": 1,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 0
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Seborrheic Keratoses and other Benign Tumors/keloids-66.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Eczema Photos/neurotic-excoriations-23.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0016,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Scabies Lyme Disease and other Infestations and Bites/myiasis-3.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-112.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0002,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Vasculitis Photos/erythema-multiforme-165.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-157.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Herpes HPV and other STDs Photos/genital-warts-11.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Exanthems and Drug Eruptions/drug-eruptions-66.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Nail Fungus and other Nail Disease/pseudomonas-4.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    },
+    {
+        "img": "/data_lg/keru/project/part2/DermNet/train/Light Diseases and Disorders of Pigmentation/polymorphous-light-eruption-37.jpg",
+        "true": 0,
+        "pred": 0,
+        "prob": 0.0,
+        "correct": 1
+    }
+]
