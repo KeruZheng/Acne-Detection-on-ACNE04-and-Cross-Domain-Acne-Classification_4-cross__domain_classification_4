@@ -1,0 +1,10 @@
+runs/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.jpg
+*.png
