@@ -214,9 +214,6 @@ This script trains a **binary classifier** to distinguish between acne (positive
 | **Contribution**  | Serves as a baseline to compare enhancement methods | Validate if HSV, Cutout, etc., further improve results  |
 
 </details>
-Ah understood! You want everything **starting from the title `V2 vs. V2_Weighted — Binary Patch Classification` to be collapsible** inside a single `<details>` block.
-
-Here is the **corrected full English version** with the **entire section neatly folded**:
 
 ---
 
