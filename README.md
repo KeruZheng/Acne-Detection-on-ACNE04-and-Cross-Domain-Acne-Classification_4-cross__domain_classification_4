@@ -183,7 +183,28 @@ This script trains a **binary classifier** to distinguish between acne (positive
       --lr 3e-4 \
       --save best_resnet50.pt
       、、、
+### 📊 Metrics Snapshot (Version 1 — Failure Case)
+
+  | Accuracy | Precision | Recall | F1 Score | AUROC  |
+  |----------|-----------|--------|----------|--------|
+  | 0.922    | 0.0       | 0.0    | 0.0      | 0.3886 |
+  
+  > ⚠️ Despite high accuracy, the model fails entirely at detecting positive samples, leading to **0 precision, recall, and F1 score** — a typical symptom of **severe class imbalance** (i.e., only predicting negatives correctly).
 
 </details> 
+
+<details>
+<summary>📊 V2 vs V3 Comparison</summary>
+
+| Item              | V2: Facenet + Basic Augmentations               | V3: Facenet + Three Augmentations (Paper Method)        |
+|-------------------|--------------------------------------------------|----------------------------------------------------------|
+| **Model Structure** | ✅ `facenet-pytorch`                             | ✅ Same                                                  |
+| **Basic Augmentations** | ✅ Color + Blur + Rotation + Flip + Crop        | ✅ Partially inherited (avoid duplication)               |
+| **Advanced Augmentations** | ❌ None                                      | ✅ HSV + Cutout + Affine                                |
+| **Implementation Complexity** | ⭐⭐                                          | ⭐⭐⭐                                                    |
+| **Target Focus**  | Generalize skin tone / pose                      | Simulate texture shift, occlusion, and blur             |
+| **Contribution**  | Serves as a baseline to compare enhancement methods | Validate if HSV, Cutout, etc., further improve results  |
+
+</details>
 
 
